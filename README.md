@@ -1,4 +1,4 @@
-<h1 align="left">Olá , Meu nome é Adriano Araujo!!</h1>
+<h1 align="left">Olá <img alt="Google - Noto Color Emoji 15.0 (Animated)" class="lg-object lg-image" data-index="8" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f30e.gif" width="42" height="42" alt="gif mundo" >, Meu nome é Adriano Araujo!!</h1>
 
 ###
 
