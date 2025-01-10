@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, Meu nome é Adriano Araújo!</h1>
+<h3 align="center">Desenvolvedor Backend com foco em Java. Dedico o meu tempo para me tornar um desenvolvedor profissional melhor. Levo o meu aprendizado e a minha carreira bastante a sério, por isso, busco me superar a cada dia. Estou atualmente trabalhando no desenvolvimento de um jogo de xadrez em Java. No meu tempo livre fico com a minha esposa e meus bichinhos, saímos para passear, ou sempre que possível pedimos sushi.</h3>
 
-<!--
-**AdrianoArauj-0/AdrianoArauj-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Como entrar em contato comigo **adriano.adsdev@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align=" left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adriano-albuquerque-ara%c3%bajo/" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adriano-albuquerque-ara%c3%bajo/" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.java.com" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40 " height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https: //www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura ="40" altura="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www .vectorlogo.zone/logos/springio/springio-icon.svg" alt="primavera" largura="40" altura="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoarauj-0&show_icons=true&locale=en&layout=compact" alt="adrianoarauj-0" /></p>
